@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌐 **Connect with Me**
 - 📧 Email: chaima.meziane@esprit.tn
-- 🌐 LinkedIn: [[LinkedIn Profile Link]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
+- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
 
 <!--
 **Chaima-Meziane/Chaima-Meziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
