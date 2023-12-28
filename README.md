@@ -18,8 +18,8 @@
 
 <h2> Connect with me </h2> <br>
  Let's connect for meaningful discussions and collaborative endeavors! 💬 
-<a > - 📧 Email: chaima.meziane@esprit.tn </a><br>
-<a >- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)</a><br>
+- 📧 Email: chaima.meziane@esprit.tn
+- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
 
 <!--
 **Chaima-Meziane/Chaima-Meziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
