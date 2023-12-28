@@ -1,7 +1,7 @@
-<p align="center">
-  <h1>Hi there! 👋 I'm Chaima Meziane</h1><br>
+
+  <h2 align="center">Hi there! 👋 I'm Chaima Meziane</h2><br>
   <i>A meticulous final-year engineering student specializing in Data Science</i>
-</p>
+
 <p align="center">
 <a> Currently specializing in Data Science, I'm on a mission to explore the endless possibilities that data holds. 💡 </a> <br>
 <a> Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </a>
