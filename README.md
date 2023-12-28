@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm Chaima Meziane, a meticulous final-year engineering student specializing in Data Science 
+### Hi there! 👋 I'm Chaima Meziane
+A meticulous final-year engineering student specializing in Data Science 
 🌐 **Connect with Me**
 - 📧 Email: chaima.meziane@esprit.tn
 - 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
