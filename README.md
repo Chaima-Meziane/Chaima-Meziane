@@ -17,7 +17,7 @@
 
 
 <h2> Connect with me </h2> <br>
-<a > Let's connect for meaningful discussions and collaborative endeavors! 💬 </a><br>
+<a > Let's connect for meaningful discussions and collaborative endeavors! 💬 </a>
 <a > - 📧 Email: chaima.meziane@esprit.tn </a><br>
 <a >- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)</a><br>
 
