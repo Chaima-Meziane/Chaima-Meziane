@@ -7,7 +7,7 @@
 <a> Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </a>
 </p>
 <br>
-<h3> Currently specializing in Data Science, I'm on a mission to explore the endless possibilities that data holds. 💡 </h3> <br>
+<h2> Technologies </h3> <br>
 
 
 🌐 **Connect with Me**
