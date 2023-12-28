@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hi there! 👋 I'm Chaima Meziane</b><br>
+  <h1>Hi there! 👋 I'm Chaima Meziane</h1><br>
   <i>A meticulous final-year engineering student specializing in Data Science</i>
 </p>
 <p align="center">
