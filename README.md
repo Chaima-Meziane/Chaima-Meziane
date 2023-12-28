@@ -7,7 +7,8 @@
 <a> Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </a>
 </p>
 <br>
-<h2> Technologies </h3> <br>
+<h2> Technologies 🤖💻</h3> <br>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 🌐 **Connect with Me**
