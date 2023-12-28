@@ -8,7 +8,8 @@
 </p>
 <br>
 <h2> Technologies 🤖💻</h2> <br>
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)](https://github.com/CharalambosIoannou)
+
 
 
 🌐 **Connect with Me**
