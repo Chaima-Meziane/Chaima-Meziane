@@ -3,7 +3,7 @@
   <i>A meticulous final-year engineering student specializing in Data Science</i>
 </p>
 <p align="center">
-  <i> Currently specializing in Data Science, I'm on a mission to explore the endless possibilities that data holds. 💡 Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </i>
+  <a> Currently specializing in Data Science, I'm on a mission to explore the endless possibilities that data holds. 💡 Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </a>
 </p>
 
 🌐 **Connect with Me**
