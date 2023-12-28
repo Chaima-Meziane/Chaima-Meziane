@@ -14,7 +14,8 @@
 - 🛠️ Familiar with tools and frameworks such as TensorFlow, PyTorch, Pandas, and Scikit-Learn.
 - 📈 Data visualization enthusiast using tools like Matplotlib, Seaborn, and Power BI.
 
-<h2> Technologies 🤖💻</h2> <br>
+<h2> Connect with me 🤖💻</h2> <br>
+ Let's connect for meaningful discussions and collaborative endeavors! 💬 
 
 - 💻 Proficient in Python, R, Java, C, and SQL.
 - 📊 Experienced in data analysis, machine learning, deep learning, statistical modeling, and web development.
