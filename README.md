@@ -8,7 +8,7 @@
 </p>
 <br>
 <h2> Technologies 🤖💻</h2> <br>
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+![Static Badge](https://img.shields.io/badge/react)
 
 🌐 **Connect with Me**
 - 📧 Email: chaima.meziane@esprit.tn
