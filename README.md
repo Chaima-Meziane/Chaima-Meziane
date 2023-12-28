@@ -9,7 +9,6 @@
 <br>
 <h2> Technologies 🤖💻</h2> <br>
 
-🚀 **Skills**
 - 💻 Proficient in Python, R, Java, C, and SQL.
 - 📊 Experienced in data analysis, machine learning, deep learning, statistical modeling, and web development.
 - 🛠️ Familiar with tools and frameworks such as TensorFlow, PyTorch, Pandas, and Scikit-Learn.
@@ -17,8 +16,7 @@
 
 
 
- **Connect with Me**
-
+<h2> Connect with me </h2> <br>
 Let's connect for meaningful discussions and collaborative endeavors! 💬
 - 📧 Email: chaima.meziane@esprit.tn
 - 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
