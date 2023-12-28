@@ -2,6 +2,9 @@
   <b>Hi there! 👋 I'm Chaima Meziane</b><br>
   <i>A meticulous final-year engineering student specializing in Data Science</i>
 </p>
+<p align="center">
+  <b> Currently specializing in Data Science, I'm on a mission to explore the endless possibilities that data holds. 💡 Whether it's uncovering hidden insights or building intelligent systems, I thrive on turning raw information into actionable intelligence. 🔍 </b>
+</p>
 
 🌐 **Connect with Me**
 - 📧 Email: chaima.meziane@esprit.tn
