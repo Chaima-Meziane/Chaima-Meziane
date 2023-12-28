@@ -8,7 +8,8 @@
 </p>
 <br>
 <h2> Technologies 🤖💻</h2> <br>
-![Static Badge](https://img.shields.io/badge/react)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
 
 🌐 **Connect with Me**
 - 📧 Email: chaima.meziane@esprit.tn
