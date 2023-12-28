@@ -8,7 +8,12 @@
 </p>
 <br>
 <h2> Technologies 🤖💻</h2> <br>
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)](https://github.com/CharalambosIoannou)
+
+🚀 **Skills**
+- 💻 Proficient in Python, R, Java, C, and SQL.
+- 📊 Experienced in data analysis, machine learning, deep learning, statistical modeling, and web development.
+- 🛠️ Familiar with tools and frameworks such as TensorFlow, PyTorch, Pandas, and Scikit-Learn.
+- 📈 Data visualization enthusiast using tools like Matplotlib, Seaborn, and Power BI.
 
 
 
