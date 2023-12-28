@@ -15,11 +15,10 @@
 - 📈 Data visualization enthusiast using tools like Matplotlib, Seaborn, and Power BI.
 
 
-
 <h2> Connect with me </h2> <br>
  Let's connect for meaningful discussions and collaborative endeavors! 💬 
-- 📧 Email: chaima.meziane@esprit.tn
-- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/)
+- 📧 Email: chaima.meziane@esprit.tn.
+- 🌐 LinkedIn: [[Chaima Meziane]](https://www.linkedin.com/in/chaima-meziane-664a22240/).
 
 <!--
 **Chaima-Meziane/Chaima-Meziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
